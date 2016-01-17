@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1453066882521,"sparkVersion":"1.6.0","uid":"vecAssembler_54f63bf39413","paramMap":{"outputCol":"features","inputCols":["vwti","swti","cwti","eoi"]}}
